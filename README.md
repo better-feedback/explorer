@@ -1,3 +1,3 @@
 # Better subgraph
 
-Explore Better BountyIssuersUpdated
+Explore Better
